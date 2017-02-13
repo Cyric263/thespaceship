@@ -3,7 +3,12 @@
 == thespaceship tabulations
 
 
-=== A Quantum Theory Proves Consciousness Moves To Another Universe After Death
+=== anotherUniverse.adoc 
+A Quantum Theory Proves Consciousness Moves To Another Universe After Death
+
+
+
+
 
 
 
