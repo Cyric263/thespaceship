@@ -6,9 +6,11 @@
 === anotherUniverse.adoc 
 A Quantum Theory Proves Consciousness Moves To Another Universe After Death
 
-
 === aMeterorite.adoc
 How Big Would A Meteorite Have To Be To Wipe Out All Human Life?
+
+=== Orbies Rant
+a rant about two different spiritual view points
 
 === WordsMatter.adoc
 Eight sentences stating why words matter. - Quoted from twitter somewhere.
