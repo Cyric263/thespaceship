@@ -2,6 +2,8 @@
 
 == thespaceship tabulations
 
+=== TheAlienTarotReading.adoc
+An Alien Forshadows Your Future With Tarot
 
 === anotherUniverse.adoc 
 A Quantum Theory Proves Consciousness Moves To Another Universe After Death
