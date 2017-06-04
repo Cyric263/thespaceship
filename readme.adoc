@@ -23,6 +23,9 @@ a rant about two different spiritual view points
 === orbiesspiritualrant.adoc
 an online chatter rant about different spiritual view points
 
+=== saywhat.adoc
+displaying some passages of Buddha
+
 === WordsMatter.adoc
 Eight sentences stating why words matter. - Quoted from twitter somewhere.
 
