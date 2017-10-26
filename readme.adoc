@@ -11,6 +11,9 @@ How Big Would A Meteorite Have To Be To Wipe Out All Human Life?
 === anotherUniverse.adoc 
 A Quantum Theory Proves Consciousness Moves To Another Universe After Death
 
+=== biophotons.adoc
+the brain may communicate through light or biophotons
+
 === MassimoVignelli3Traits.adoc
 Designer Massimo Vignelli talk about vision, courage, and determination.
 
