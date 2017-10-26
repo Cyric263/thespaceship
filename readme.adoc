@@ -14,6 +14,9 @@ A Quantum Theory Proves Consciousness Moves To Another Universe After Death
 === biophotons.adoc
 the brain may communicate through light or biophotons
 
+=== hemingway_tips.adoc
+what would hemingway do?
+
 === MassimoVignelli3Traits.adoc
 Designer Massimo Vignelli talk about vision, courage, and determination.
 
