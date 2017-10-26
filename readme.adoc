@@ -1,0 +1,43 @@
+= thespaceship readme
+
+== thespaceship tabulations
+
+=== TheAlienTarotReading.adoc
+An Alien Forshadows Your Future With Tarot
+
+=== aMeterorite.adoc
+How Big Would A Meteorite Have To Be To Wipe Out All Human Life?
+
+=== anotherUniverse.adoc 
+A Quantum Theory Proves Consciousness Moves To Another Universe After Death
+
+=== MassimoVignelli3Traits.adoc
+Designer Massimo Vignelli talk about vision, courage, and determination.
+
+=== MentalExpansion.adoc
+(II Cor. 3:18) Science of Mind Clipping - Shedding brings Renewal
+
+=== orbiesspiritualrant.adoc
+a rant about two different spiritual view points
+
+=== orbiesspiritualrant.adoc
+an online chatter rant about different spiritual view points
+
+=== saywhat.adoc
+displaying some passages of Buddha
+
+=== WordsMatter.adoc
+Eight sentences stating why words matter. - Quoted from twitter somewhere.
+
+
+
+
+
+
+
+
+
+
+
+
+
