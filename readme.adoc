@@ -2,6 +2,9 @@
 
 == thespaceship tabulations
 
+=== AngelMetatronViaChristmas.adoc
+Metatron Transforms You With Light
+
 === TheAlienTarotReading.adoc
 An Alien Forshadows Your Future With Tarot
 
@@ -37,6 +40,8 @@ displaying some passages of Buddha
 
 === WordsMatter.adoc
 Eight sentences stating why words matter. - Quoted from twitter somewhere.
+
+*Discussion* + *Decision* + *Destination*
 
 
 
