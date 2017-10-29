@@ -61,22 +61,22 @@ Eight sentences stating why words matter. - Quoted from twitter somewhere.
 
 *Discussion* + *Decision* + *Destination*
 
-![](thespaceship/image/chalkrawman1.jpg)
+![](/image/chalkrawman1.jpg)
 
 
-![](thespaceship/image/sp1.png)
+![](/image/sp1.png)
 
 
-![](thespaceship/image/sp2.png)
+![](/image/sp2.png)
 
 
-![](thespaceship/image/chalkrawman2.png)
+![](/image/chalkrawman2.png)
 
 
-![](thespaceship/image/holdingontoangerpoison.png)
+![](/image/holdingontoangerpoison.png)
 
 
-![](thespaceship/image/thebestlove.png)
+![](/image/thebestlove.png)
 
 
 
