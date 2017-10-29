@@ -20,14 +20,23 @@ We are discovering more and more about the human mind.
 === biophotons.adoc
 the brain may communicate through light or biophotons
 
+=== hearttrouble.adoc
+Love powers the heart and body : Science of Mind
+
 === hemingway_tips.adoc
 what would hemingway do?
+
+=== lawofcorrespondence.adoc
+Put Attitude of Minds Thoughts only on Goodness : Science of Mind
 
 === MassimoVignelli3Traits.adoc
 Designer Massimo Vignelli talk about vision, courage, and determination.
 
 === MentalExpansion.adoc
 (II Cor. 3:18) Science of Mind Clipping - Shedding brings Renewal
+
+=== nervetrouble.adoc
+Train your mind towards peace, strength, and power : Science of Mind
 
 === orbiesspiritualrant.adoc
 a rant about two different spiritual view points
