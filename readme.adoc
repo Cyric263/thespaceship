@@ -20,6 +20,9 @@ We are discovering more and more about the human mind.
 === biophotons.adoc
 the brain may communicate through light or biophotons
 
+=== dream_meanings.adoc
+animal meanings in your dreams
+
 === hearttrouble.adoc
 Love powers the heart and body : Science of Mind
 
