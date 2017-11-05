@@ -57,7 +57,10 @@ Release Fear & Align With Goodness and Right Action:365 SOM Meditational Quote
 The Power of One Spirit and Goodness Flows Through You :365 SOM Meditational Quote
 
 === saywhat.adoc
-displaying some passages of Buddha
+Displaying some passages of Buddha
+
+=== a_whisper_in_your_dream.adoc
+Understanding Jesus True Teachings
 
 === WordsMatter.adoc
 Eight sentences stating why words matter. - Quoted from twitter somewhere.
