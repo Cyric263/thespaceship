@@ -1,3 +1,4 @@
+
 = thespaceship readme
 
 == thespaceship tabulations
@@ -20,6 +21,9 @@ A Quantum Theory Proves Consciousness Moves To Another Universe After Death
 === astralprojectionandhypnosis.adoc
 We are discovering more and more about the human mind.
 
+=== becomeASuccessfulWriter.adoc
+Two keys to the process of writing explained
+
 === biophotons.adoc
 the brain may communicate through light or biophotons
 
@@ -31,6 +35,9 @@ Love powers the heart and body : Science of Mind
 
 === hemingway_tips.adoc
 what would hemingway do?
+
+=== impossibleintelligenceexplosion.adoc
+artificial intelligence won't take over
 
 === lawofcorrespondence.adoc
 Put Attitude of Minds Thoughts only on Goodness : Science of Mind
@@ -54,10 +61,13 @@ an online chatter rant about different spiritual view points
 Mentally Align and Seek The Good :365 SOM Meditational Quote
 
 === releaseeverytension.adoc
-Release Fear & Align With Goodness and Right Action:365 SOM Meditational Quote
+release Fear & Align With Goodness and Right Action:365 SOM Meditational Quote
 
 === realizeaperfectbeing.adoc
 No matter what the appearance is, reality is perfect; everything comes from God.
+
+=== spiritual_hinduism.adoc
+basic hinduism ideas and concepts
 
 === spiritpermeates.adoc
 The Power of One Spirit and Goodness Flows Through You :365 SOM Meditational Quote
