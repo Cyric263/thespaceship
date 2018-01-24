@@ -49,13 +49,13 @@ Designer Massimo Vignelli talk about vision, courage, and determination.
 (II Cor. 3:18) Science of Mind Clipping - Shedding brings Renewal
 
 === negativityfast.pdf
-Mental exercise to release negativity.
+mental exercise to release negativity.
 
 === nervetrouble.adoc
-Train your mind towards peace, strength, and power : Science of Mind
+train your mind towards peace, strength, and power : Science of Mind
 
 === newbeliefgenerator.pdf
-Mental exercise to generate new perspective and beliefs
+mental exercise to generate new perspective and beliefs
 
 === orbiesspiritualrant.adoc
 a rant about two different spiritual view points
@@ -64,7 +64,10 @@ a rant about two different spiritual view points
 an online chatter rant about different spiritual view points
 
 === physicalperfection.adoc
-Mentally Align and Seek The Good :365 SOM Meditational Quote
+mentally Align and Seek The Good :365 SOM Meditational Quote
+
+=== powerofsuggestion.pdf
+mental exercise to reenergise and focus
 
 === releaseeverytension.adoc
 release Fear & Align With Goodness and Right Action:365 SOM Meditational Quote
