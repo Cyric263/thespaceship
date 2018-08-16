@@ -30,20 +30,29 @@ Two keys to the process of writing explained
 === biophotons.adoc
 the brain may communicate through light or biophotons
 
+=== crystaltechnology_and_alienhumans.adoc
+(alternative article on crystals - informatino not-verified)
+
 === dream_meanings.adoc
 animal meanings in your dreams
 
 === end_suffering_in_yourself.adoc
 let go of negative perspectives
 
-=== hearttrouble.adoc
-Love powers the heart and body : Science of Mind
-
 === generaterealwealth.pdf
 setting the intention is a powerful thing
 
+=== healingandwholeness.adoc
+chapter 5: cim - love and joy quotes and concepts
+
+=== hearttrouble.adoc
+Love powers the heart and body : Science of Mind
+
 === hemingway_tips.adoc
 what would hemingway do?
+
+=== humanity_sacrificed_truth.adoc
+by pamela aarlynn 
 
 === impossibleintelligenceexplosion.adoc
 artificial intelligence won't take over
@@ -99,8 +108,12 @@ The Power of One Spirit and Goodness Flows Through You :365 SOM Meditational Quo
 === saywhat.adoc
 Displaying some passages of Buddha
 
-=== SeeOnlytheGood.adoc
+=== seeonlythegood.adoc
 Release and let go of fear and low energy... Focus on the Good!
+
+=== theInnocentPerceptionCh3.adoc
+Principle of Course In Miracles from Outside This Universe
+"God does not believe in retributioin."
 
 === a_whisper_in_your_dream.adoc
 Understanding Jesus True Teachings
