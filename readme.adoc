@@ -15,9 +15,6 @@ Metatron Transforms You With Light
 === TheAlienTarotReading.adoc
 An Alien Forshadows Your Future With Tarot
 
-=== aMeterorite.adoc
-How Big Would A Meteorite Have To Be To Wipe Out All Human Life?
-
 === anotherUniverse.adoc 
 A Quantum Theory Proves Consciousness Moves To Another Universe After Death
 
